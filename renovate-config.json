@@ -1,0 +1,16 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Default Renovate preset for Riege repos",
+  "extends": [
+    "config:base"
+  ],
+  "hostRules": [
+    {
+      "matchHost": "https://maven.pkg.github.com/riege/packages",
+      "encrypted": {
+        "username": "wcFMA/xDdHCJBTolAQ/9FJ19yiz983Zh6Pge7ogvJm7E8qcYae9oyPYPseMWrxJ3yg/25T66Vj4QzkJrehTgki8AqcmWTcJScXd1uQ465oWUzPGs28sppdUpQtGhwd/nfZ+miTaAJiaSXsFfYkUwGs1KkNYfvphPtU9e/y1dnR4BcvDshFXZAvEy+4HElOqJkqU0aK/7BlUIp6VyUr/pheJTGnOn2ButWBRPryRGs1BFfZoMn9EZ2VXx8ewKI+V2kC2xcM3lb7ox0fX5vmrlDUO9fWaxArP//SFxUlCHzsJToPtOGeCLg5dBnANymrai3RBe8H6MuX7s3u+nLBSTBtKKauzSh53eSZqWuISV8oOkTlCZLONaYWFFyCR5Y2GkcJvv1uwPs3pklz4lZnpb4PGVYnI630dDTdNsSv+BFyRsTO94W/XSEAfI9i3LEJJ1wqgMTxJii+dasyhNjq6tUgdA/RYQeeTwckhI6gnuc4Xm6/ir9ipHDUlAhANSUHTV4SyxIPbGdy/q09kyahXhJxmOaHoR4kJEI23FEy4F81B2X+cr1cCzDm6UWXbRNKo9CcSbDeem5yVFSsfYOXUifFIbPDzzRTkIonU0U7D0sAf3fHzQi9MghN0Kd5Bo/Xhr7c+NxzuFlAUUsdzIBnJI+Exx51E8c94FFyYdlHG0RfcLfdSScJAEBoP7ixdFRyvSUwG7TT9Z0vYupxR5+As7MHKHfKj8ELqQ6yqWuNsB5FKZt8PNzKcxUcwtSPBls4b3QdlXhb1je94kll+XXwhoPM3a4QpBgGz7cyg9SaZjv8lYPJcn",
+        "password": "wcFMA/xDdHCJBTolARAAghsYU6gAcDER1k6JH6FNl5ZX++5fA5fcN3QW1GIx9sbEItj6FBRcxDifUwhioWa3DtidupB56lG8FzvbB4FvGT6m2W6SAldOgS2T1hB7/QC9o4rF3nVsiKrYLOcZM/Nblu/NURjpFz2f5Igalgpb+g9SkUlMXnUOmcLJAJ+GJV26OzTNhDqZEh7IXMYIf8wxMllSMjU6aRmqdIHHK03I2oHYdUwSP6jejtQklR8M59Zj09heQPeja/vO8oIdOjqgI1qsGIHlVM+LTQTSzJBknXQro6XVSjKKJbbZ9T1irUx2x+vMpc9DHPPzIA5RfLxVMMcwLHhAfQH8WS8HTdJLTVsK88ixF71wTSAOtk8kZE4RoW62vg2bFEfAhCcL/RXfGU1VjNzL0KU+bqA+3NV/5wEG+zpupL/F1op93FUXvT7+Dkxfy1I4Ni4R0uXeJe55x9Z55FD0o3m0q5siDms45NOb1P2jW+RPlpE7hFW1LHgS/hFdGvMzls9R9hVz+KVUa/l7JW+um7pNKSl9d6LutExD7aodbZa27NxM0EmaT8Ak/npH2b61Cca2lnHDT/It96o35mHxIwqqU+MHwLXz6Pmr3Rygp9SbZrtK04I19TOhmxiD1dc2xKZk7MYqarBy/lFmTzAUx8DHKlnQ+cm3NyW0lIgUBjMcJjuv1HXdW0vSdAHV/1utXfo0SthUsfnyC4MjWx6V3QIJ+ATh0lhhwDXBsJAVmOpo1LvBEnShMFuCVnUhtxFoPpM4FsKI3HN2UjDS0Nw5OL5Yn9BtXoXTZETZyZ+SzDDcgUQTDiaNwaWFhani+Ov/hbfQihMDTQqYu++/Y0Tl"
+      }
+    }
+  ]
+}
