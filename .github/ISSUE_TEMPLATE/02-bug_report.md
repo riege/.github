@@ -9,7 +9,7 @@ assignees: ''
 
 # Bug Report
 
-*Start with a clear and concise description of what the bug is. Then try to fill out the points below.*
+*Start with a clear and concise description of what the bug is, i.e. point out the unwanted actual behaviour. Then try to fill out the points below.*
 
 ## Steps To Reproduce
 
