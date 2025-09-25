@@ -1,13 +1,11 @@
 # The Riege .github repository
 
-This repository contains several resources that apply to the Riege organization.
-
-See the [GitHub Documenation on Community Health Files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for an overview of the possible features of such repositories.
+This repository contains several resources that apply to the Riege organization on GitHub.
+See the [GitHub Documentation on Community Health Files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for an overview of the possible features of such a repository.
 
 ## The Public Organization Profile
 
 The [README.md in the profile folder](profile/README.md) is displayed on the [Riege organization's public profile page](https://github.com/riege?view_as=public).
-
 See the [GitHub documentation on the public profile README.md](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile#adding-a-public-organization-profile-readme).
 
 ## Organization Wide Issue Templates
