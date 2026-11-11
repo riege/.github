@@ -20,7 +20,3 @@ assignees: ''
 ## Screenshots
 
 ## Links
-
-# Development
-
-## Progress

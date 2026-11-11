@@ -18,7 +18,3 @@ assignees: ''
 ## Confirmation
 
 ## Links
-
-# Development
-
-## Progress
